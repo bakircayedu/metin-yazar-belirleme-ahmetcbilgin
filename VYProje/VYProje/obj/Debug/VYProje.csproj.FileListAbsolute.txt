@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\VYProje\VYProje\bin\Debug\VYProje.exe.config
+C:\Users\Lenovo\source\repos\VYProje\VYProje\bin\Debug\VYProje.exe
+C:\Users\Lenovo\source\repos\VYProje\VYProje\bin\Debug\VYProje.pdb
+C:\Users\Lenovo\source\repos\VYProje\VYProje\obj\Debug\VYProje.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\VYProje\VYProje\obj\Debug\VYProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\VYProje\VYProje\obj\Debug\VYProje.Form1.resources
+C:\Users\Lenovo\source\repos\VYProje\VYProje\obj\Debug\VYProje.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\VYProje\VYProje\obj\Debug\VYProje.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\VYProje\VYProje\obj\Debug\VYProje.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\VYProje\VYProje\obj\Debug\VYProje.exe
+C:\Users\Lenovo\source\repos\VYProje\VYProje\obj\Debug\VYProje.pdb
